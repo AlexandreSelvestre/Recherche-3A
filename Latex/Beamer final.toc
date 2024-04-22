@@ -1,0 +1,4 @@
+\babel@toc {french}{}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Overview of bayesian methods for model selection}{8}{0}{2}
+\beamer@sectionintoc {3}{Overview of bayesian methods for model selection}{9}{0}{3}
